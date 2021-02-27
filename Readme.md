@@ -1,4 +1,5 @@
 # HIRE SMART
+
 ## 👨🏻‍💻&nbsp;Introduction
 Build a platform to analyze and gather information about your connections from different popular professional portals for hiring potential candidates as per required skills.
 
@@ -41,3 +42,5 @@ There are many peoples who lost their jobs in 2020 due the COVID-19 Pandemic and
  - Full MERN Stack Development
  - Web Scrapping with Nodejs
  - Blockchain and Ethereum
+
+_**Would Be happy if someone else also found this useful and want to integrate any other feature in it**_
