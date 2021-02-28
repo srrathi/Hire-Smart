@@ -19,7 +19,7 @@ A simple web Platform where a client who's looking to hire people according to s
 
 ## ⚙️&nbsp;Working
 
- - To get the the Data of all the connections of a user who gives his various professional social account url like LinkedIn, Github, Stackoverflow along with a layer of user consent through API's and Web Scraping using Nodejs.
+ - To get the Data of all the connections of a user who gives his various professional social account url like LinkedIn, Github, Stackoverflow along with a layer of user consent through API's and Web Scraping using Nodejs.
  - We will provide seperate input boxes to get the url of each platform.
  - Storing all the Data in MongoDb database to use it further.
  - Analyze all the data and show it in a visualize manner with statistics of all data of connections using Reactjs and its libraries along with Bootstrap.
