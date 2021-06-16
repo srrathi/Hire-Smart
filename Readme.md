@@ -4,7 +4,7 @@
 Build a platform to analyze and gather information about your connections from different popular professional portals for hiring potential candidates as per required skills.
 
 ## 🔭&nbsp;About this Project
-A simple web Platform where a client who's looking to hire people according to skill requirement would simply provide his Profeesional Social Profile url and we will show him the data of all the candidates in his connectiona with their skills and other relevant details.
+A simple web Platform where a client who's looking to hire people according to skill requirement would simply provide his Profeesional Social Profile url and we will show him the data of all the candidates in his connections with their skills and other relevant details.
 
 ## 🛠️&nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&nbsp;
